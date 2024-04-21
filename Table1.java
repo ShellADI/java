@@ -1,4 +1,6 @@
-class Table1{
+/*Logical operators table*/
+
+class table1{
     public static void main(String args[]){
         boolean p, q;
         System.out.println("P\tQ\tAND\tOR\tXOR\tNOT\t");
