@@ -1,3 +1,5 @@
+/*Initializing string and integer types using constructor */
+
 class intializer{
     String a;
     int i;
