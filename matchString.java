@@ -1,3 +1,5 @@
+/*Conversion of String to character array*/
+
 class A{
     String s;
     A(){
