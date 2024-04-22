@@ -21,6 +21,7 @@ class intializer{
         l=sc.nextLong();
         System.out.print("Enter a short interger: ");
         s=sc.nextShort();
+        sc.close();
         System.out.println();
     }
 }

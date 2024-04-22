@@ -6,6 +6,7 @@ class A{
         java.util.Scanner sc=new java.util.Scanner(System.in);
         System.out.print("Enter a number: ");
         a=sc.nextInt();
+        sc.close();
     }
     void fabonacci(){
         System.out.print("Fabonacci series upto "+a+"th : 0 1 ");
